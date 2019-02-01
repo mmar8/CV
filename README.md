@@ -36,6 +36,6 @@ HTML, CSS, JavaScript, NodeJS
 
 ## INTERESTS
 #### Volunteering   
-I am an active member of my children's school and local church. We have successfully organised many events and fundraisers to help local community. Contributing to a good cause, being useful and supportive brings me great satisfaction.
+I am an active member at my children's school and local church. We have successfully organised many events and fundraisers to help local community. Contributing to a good cause, being useful and supportive brings me great satisfaction.
 
 #### Any outdoors activities: travelling, hiking and camping...
