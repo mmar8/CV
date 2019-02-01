@@ -1,4 +1,4 @@
-## Your Name
+## Maria Vanaale
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
@@ -21,9 +21,9 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
-## Education
+## EDUCATION
 
-#### Makers Academy (start_date to end_date)
+#### MAKERS ACADEMY (January to April 2019)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -34,13 +34,14 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### TALLINN UNIVERSITY OF TECHNOLOGY, Tallinn, Estonia (2004-2010)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- MSc Environmental Engineering, HVAC Design 
 
-#### Any other qualifications
+#### Web Developer Bootcamp, UDEMY (October 2018)
+HTML, CSS, JavaScript, NodeJS
+
+#### Learn Ruby Course, CODECADEMY (November 2018)
 
 ## Experience
 
