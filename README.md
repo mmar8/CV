@@ -1,9 +1,6 @@
-<<<<<<< HEAD
 ## Maria Vanaale, Junior Developer
 =======
 ## Maria Vanaale
->>>>>>> f288917d48991736f1516cd44b7f6e3b269f9a54
-
 ####About me...
 Coding is my newly emerged passion, hence the career change! After starting a family I chose to be a stay at home mum until they start school. However, I've alway been interested in new technology and enjoy creating useful and beautiful things using various software programs. This is just the beginning of my professional journey as a developer, but I am sure I'm on the right track!
 
