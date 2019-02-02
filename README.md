@@ -38,4 +38,7 @@ HTML, CSS, JavaScript, NodeJS
 #### Volunteering   
 I am an active member at my children's school and local church. We have successfully organised many events and fundraisers to help local community. Contributing to a good cause, being useful and supportive brings me great satisfaction.
 
-#### Any outdoors activities: travelling, hiking and camping...
+#### Any outdoors activities: 
+Travelling, hiking and camping...
+#### Languages:
+I'm fluent in three languages: English, Russian and Estonian.
