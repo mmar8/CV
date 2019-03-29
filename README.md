@@ -1,4 +1,7 @@
-## Maria Vanaale, Junior Developer
+<h1 align="center">Maria Vanaale</h1>
+<p align="center">
+<a href="www.linkedin.com/in/maria-vanaale-b0038447">
+<img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a></p>
 
 #### About me...
 Coding is my newly emerged passion, hence the career change! After starting a family I chose to be a stay at home mum until they start school. However, I've alway been interested in new technology and enjoy creating useful and beautiful things using various software programs. This is just the beginning of my professional journey as a developer, but I am sure I'm on the right track!
