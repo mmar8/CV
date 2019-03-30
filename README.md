@@ -1,6 +1,6 @@
-<div><h1 align="center">Maria Vanaale</h1> <a href="https://www.linkedin.com/in/maria-vanaale-b0038447/">
-<img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></div>
- 
+<h1 align="center">Maria Vanaale <a href="https://www.linkedin.com/in/maria-vanaale-b0038447/">
+<img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="30" height="42" width="42">
+ </h1> 
  <div align="center">
     
 [Background ](#background) | 
