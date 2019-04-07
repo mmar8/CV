@@ -18,6 +18,16 @@ Coding is my newly emerged passion, hence the career change! After starting a fa
 
 My dream is to work in a vibrant professional environment where I could develop my skills.
 
+## PROJECTS
+
+| Project | Description | Technologies |
+| --- | --- | --- |
+| [Airport Challenge](https://github.com/mmar8/airport_challenge) | First weekend challenge at Makers. It was required to write the software to control the flow of planes at an airport. | Ruby, RSpec, Rubocop, Rake|
+| [???]() | This program is a bowling scorecard which allows you to add your bowling scores for each roll and it calculates the bonuses and total score for you | Javascript, Jasmine, HTML, CSS |
+| [???]() | This program is a small version of Twitter, where users can post messages so that everyone can read them | Ruby, Sinatra, RSpec, Capybara, HTML, CSS, Datamapper, PostgreSQL |
+| [???]() | This program is a small web app to play rock, paper, scissors online against the computer | Ruby, Sinatra, RSpec, Capybara, HTML, CSS |
+| [???]() | This project is a challenge proposed by Makers to learn a completely new language in only one day. Concretely, it consists of a small FizzBuzz program written in Python | Python, unittest |
+
 ## EDUCATION
 
 #### MAKERS ACADEMY (January to April 2019)
