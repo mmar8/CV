@@ -24,9 +24,7 @@ My dream is to work in a vibrant professional environment where I could develop 
 | --- | --- | --- |
 | [Final Project: LAMABaby](https://github.com/mmar8/LAMAbaby_Final_Project) | Final Makers team project. An iOS app that helps parents to create and share schedules with nannies or babysitters who also could use their own phones to find things around the house(AR technology) | Swift, XCode, AdobeXD, XCTеst |
 | [Acebook_Team_404](https://github.com/mmar8/Acebook-Team_404) | A two week group project where we created a clone of Facebook in Ruby on Rails. We practiced agile working methods to meet our mvp. | Ruby, Device, RSpec, HTML, CSS, Datamapper, PostgreSQL |
-| [FizzBuzz in Swift](https://github.com/mmar8/FizzBuzzSwift) | 
-Traditional FizzBuzz challenge to learn a new language. If number is divisible by 3 --> return 'Fizz'. If number is divisible by 5 --> return 'Buzz'.
-And if number is divisible by 15 --> return 'FizzBuzz'. | Swift, XCTest, XCode |
+| [FizzBuzz in Swift](https://github.com/mmar8/FizzBuzzSwift) | Traditional FizzBuzz challenge to learn a new language. If number is divisible by 3 return 'Fizz'. If number is divisible by 5 return 'Buzz'. And if number is divisible by 15 return 'FizzBuzz'. | Swift, XCTest, XCode |
 | [MakersBnB](https://github.com/mmar8/MakersBnB_Need_Sleep_Team) | A group project where we recreated AirBnB in Ruby | Ruby, Sinatra, PostgreSQL, Rspec, Sinatra, Rubocop, Bcrypt, Active Record |
 | [Airport Challenge](https://github.com/mmar8/airport_challenge) | First weekend challenge at Makers. It was required to write the software to control the flow of planes at an airport. | Ruby, RSpec, Rubocop, Rake|
 
@@ -39,9 +37,9 @@ And if number is divisible by 15 --> return 'FizzBuzz'. | Swift, XCTest, XCode |
 - Great collaborator [PROVIDE EVIDENCE]
 
 - OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Agile
+- Ruby, Ruby on Rails, JavaScript, Swift
+- RSpec, Jasmine, XCTest
 
 #### TALLINN UNIVERSITY OF TECHNOLOGY, Tallinn, Estonia (2004-2010)
 
