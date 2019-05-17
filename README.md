@@ -13,7 +13,7 @@
 </div>
 
 
-#### About me...
+#### ABOUT ME
 Coding is my newly emerged passion, hence the career change! After starting a family I chose to be a stay at home mum until they start school. However, I've alway been interested in new technology and enjoy creating useful and beautiful things using various software programs. This is just the beginning of my professional journey as a developer, but I am sure I'm on the right track!
 
 My dream is to work in a vibrant professional environment where I could develop my skills.
