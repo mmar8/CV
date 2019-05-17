@@ -27,19 +27,23 @@ My dream is to work in a vibrant professional environment where I could develop 
 | [FizzBuzz in Swift](https://github.com/mmar8/FizzBuzzSwift) | Traditional FizzBuzz challenge to learn a new language. If number is divisible by 3 return 'Fizz'. If number is divisible by 5 return 'Buzz'. And if number is divisible by 15 return 'FizzBuzz'. | Swift, XCTest, XCode |
 | [MakersBnB](https://github.com/mmar8/MakersBnB_Need_Sleep_Team) | A group project where we recreated AirBnB in Ruby | Ruby, Sinatra, PostgreSQL, Rspec, Sinatra, Rubocop, Bcrypt, Active Record |
 | [Airport Challenge](https://github.com/mmar8/airport_challenge) | First weekend challenge at Makers. It was required to write the software to control the flow of planes at an airport. | Ruby, RSpec, Rubocop, Rake|
+## SKILLS
+- Tеам Мanagement
+- Presentation Skills
+- Solution-oriented
+- Curious and passionate about code. 
+- Fast, independent learner 
+- Great collaborator
 
 ## EDUCATION
 
 #### MAKERS ACADEMY (January to April 2019)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
-
 - OOP, TDD, MVC, DDD
-- Agile
-- Ruby, Ruby on Rails, JavaScript, Swift
+- Agile, Scrum, Kanban
+- Ruby, Ruby on Rails, JavaScript, Swift, CSS, HTML
 - RSpec, Jasmine, XCTest
+- Heroku, Github
 
 #### TALLINN UNIVERSITY OF TECHNOLOGY, Tallinn, Estonia (2004-2010)
 
