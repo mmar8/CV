@@ -43,7 +43,7 @@ My dream is to work in a vibrant professional environment where I could develop 
 
 - OOP, TDD, MVC, DDD
 - Agile, Scrum, Kanban
-- React JS, JavaScript, Ruby, Ruby on Rails, Swift, CSS, HTML
+- React, JavaScript, Ruby, Ruby on Rails, Swift, CSS, HTML
 - RSpec, Jasmine, XCTest
 - Heroku, Github
 
