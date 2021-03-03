@@ -4,7 +4,6 @@
  <div align="center">
     
 [Background ](#background) | 
-[Projects ](#projects) | 
 [Skills ](#skills) | 
 [Education ](#education) | 
 [Experience ](#experience) | 
@@ -14,21 +13,13 @@
 
 
 #### ABOUT ME
-Fell in love with coding a few years ago, hence the career change! After starting a family I chose to be a stay at home mum until they start school. However, I've alway been interested in new technology and enjoy creating useful and beautiful things using various software programs. This is just the beginning of my professional journey as a developer, but I am sure I'm on the right track!
-
+London’s Makers Academy Bootcamp graduate. Software Developer with a passion for coding and strong analytical skills. A diligent, hardworking and fun-loving professional, excellent team player, with a previous career in mechanical engineering. 
+I am looking for a role where I can continue to learn and challenge myself using the industry best practices.
 My dream is to work in a vibrant professional environment where I could develop my skills.
 
-## PROJECTS
 
-| Project | Description | Technologies |
-| --- | --- | --- |
-| [Final Project: LAMABaby](https://github.com/mmar8/LAMAbaby_Final_Project) | Final Makers team project. An iOS app that helps parents to create and share schedules with nannies or babysitters who also could use their own phones to find things around the house(AR technology) | Swift, XCode, AdobeXD, XCTеst |
-| [Acebook_Team_404](https://github.com/mmar8/Acebook-Team_404) | A two week group project where we created a clone of Facebook in Ruby on Rails. We practiced agile working methods to meet our mvp. | Ruby, Device, RSpec, HTML, CSS, Datamapper, PostgreSQL |
-| [FizzBuzz in Swift](https://github.com/mmar8/FizzBuzzSwift) | Traditional FizzBuzz challenge to learn a new language. If number is divisible by 3 return 'Fizz'. If number is divisible by 5 return 'Buzz'. And if number is divisible by 15 return 'FizzBuzz'. | Swift, XCTest, XCode |
-| [MakersBnB](https://github.com/mmar8/MakersBnB_Need_Sleep_Team) | A group project where we recreated AirBnB in Ruby | Ruby, Sinatra, PostgreSQL, Rspec, Sinatra, Rubocop, Bcrypt, Active Record |
-| [Airport Challenge](https://github.com/mmar8/airport_challenge) | First weekend challenge at Makers. It was required to write the software to control the flow of planes at an airport. | Ruby, RSpec, Rubocop, Rake|
 ## SKILLS
-- React Js, JavaScript, CSS, HTML
+- React Js, JavaScript, CSS, HTML, Bootstrap,Figma, Git, Jira
 - Tеам Мanagement
 - Version Control
 - Presentation Skills
@@ -52,16 +43,17 @@ My dream is to work in a vibrant professional environment where I could develop 
 - MSc Environmental Engineering, HVAC Design
 - Equivalent to UK's 1st Class Degree
 
-#### Web Developer Bootcamp, UDEMY (October 2018)
-HTML, CSS, JavaScript, NodeJS
-
 #### Learn Ruby Course, CODECADEMY (November 2018)
 
 ## EXPERIENCE
 
 **Mangahigh, London, UK** (June 2019 to Oct 2020)    
 *Software Developer*
- Front-end ReactJS developer working on creating Maths and Coding apps for children. Working with a team of other engineers and content developers to produce accurate, functional and fun content for our product. Daily standups and regular meetings helped produce efficient results and achieve goals on time. 
+-Closely collaborated with the team of developers and designers to develop customer facing educational Maths application.
+-Creating new features and functionality using HTML, CSS and ReactJS for the front end development of functionalities.
+-Other tools used daily:  JSON, GitHub, Bit Bucket, JIRA, browser development tools, command line and Figma. 
+-Performing bug fixes and code reviews for my peers
+-Practicing team building exercises and participating in learning development  sessions.
 
 **Meistri Projekt, Tallinn, Estonia** (June 2007 to Sept 2009)    
 *AutoCad Technician, HVAC Engineer Assistant*
