@@ -4,9 +4,9 @@
  <div align="center">
     
 [Background ](#background) | 
-[Skills ](#skills) | 
-[Education ](#education) | 
-[Experience ](#experience) | 
+[Skills ](#skills) |
+[Experience ](#experience) |
+[Education ](#education) |
 [Interests ](#interests)
 
 </div>
@@ -28,6 +28,22 @@ My dream is to work in a vibrant professional environment where I could develop 
 - Fast, independent learner 
 - Great collaborator
 
+## EXPERIENCE
+
+**Mangahigh, London, UK** (June 2019 to Oct 2020)    
+*Software Developer*
+
+- Closely collaborated with the team of developers and designers to develop customer facing educational Maths application.
+- Creating new features and functionality using HTML, CSS and ReactJS for the front end development of functionalities.
+- Other tools used daily:  JSON, GitHub, Bit Bucket, JIRA, browser development tools, command line and Figma. 
+- Performing bug fixes and code reviews for my peers
+- Practicing team building exercises and participating in learning development  sessions.
+
+**Meistri Projekt, Tallinn, Estonia** (June 2007 to Sept 2009)    
+*AutoCad Technician, HVAC Engineer Assistant*
+
+ Working on a number of projects for building services engineering, predominantly on industrial and commercial buildings. My core task was to assess and design a building’s requirement for efficient systems and infrastructure for heating, cooling, lightning, water and other systems, producing HVAC simulations and engineering drawings in specialist software.
+
 ## EDUCATION
 
 #### MAKERS ACADEMY (January to April 2019)
@@ -44,20 +60,6 @@ My dream is to work in a vibrant professional environment where I could develop 
 - Equivalent to UK's 1st Class Degree
 
 #### Learn Ruby Course, CODECADEMY (November 2018)
-
-## EXPERIENCE
-
-**Mangahigh, London, UK** (June 2019 to Oct 2020)    
-*Software Developer*
--Closely collaborated with the team of developers and designers to develop customer facing educational Maths application.
--Creating new features and functionality using HTML, CSS and ReactJS for the front end development of functionalities.
--Other tools used daily:  JSON, GitHub, Bit Bucket, JIRA, browser development tools, command line and Figma. 
--Performing bug fixes and code reviews for my peers
--Practicing team building exercises and participating in learning development  sessions.
-
-**Meistri Projekt, Tallinn, Estonia** (June 2007 to Sept 2009)    
-*AutoCad Technician, HVAC Engineer Assistant*
- Working on a number of projects for building services engineering, predominantly on industrial and commercial buildings. My core task was to assess and design a building’s requirement for efficient systems and infrastructure for heating, cooling, lightning, water and other systems, producing HVAC simulations and engineering drawings in specialist software.
 
 ## INTERESTS
 #### Volunteering   
